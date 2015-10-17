@@ -1,0 +1,35 @@
+
+body { 
+    padding-top: 7em; 
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+}
+.foot {
+    background-color:#333;
+    color:white; 
+}
+
+#valores ,.detashes{
+    background-color:white;
+    color:black;
+}
+.detashes {
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.marketing .row .col-lg-4,.detashes {
+    margin-TOP: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.ambientes {
+    background: #181717;
+    color:#fff;
+}
+
+.imagen {
+    padding:1em;
+    text-align: center;
+}
